@@ -59,7 +59,6 @@ Tenho experiência sólida no desenvolvimento de **APIs RESTful**, **aplicaçõe
 
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/henriquesan14)
-- 🧑‍💻 [GitHub](https://github.com/henriquesan14)
 
 ---
 
