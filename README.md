@@ -50,6 +50,10 @@ Adoto **Clean Architecture**, **DDD**, **CQRS**, **SOLID** e outras boas prátic
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+#### 📬 Mensageria
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 #### 🧪 Testes & Qualidade
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
